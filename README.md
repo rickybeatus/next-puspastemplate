@@ -5,6 +5,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ```bash
 git remote remove origin
 cp .env.example .env
+npm install
 ```
 
 First, run the development server:
